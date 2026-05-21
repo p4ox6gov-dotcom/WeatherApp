@@ -1,0 +1,6 @@
+{
+  "name": "Weather App",
+  "description": "A clean, modern, and detailed real-time weather application with hourly and 7-day forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
